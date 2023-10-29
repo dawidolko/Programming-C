@@ -1,30 +1,30 @@
 # Example_tasks
 
-W tym katalogu znajdują się przykłady zadań programistycznych, które mają na celu demonstrację różnych technik, rozwiązań i konceptów programowania. Każde zadanie jest zamieszczone w oddzielnym pliku i zawiera opis problemu oraz kod rozwiązania.
+This directory contains examples of programming tasks that are intended to demonstrate various programming techniques, solutions, and concepts. Each task is included in a separate file and contains a description of the problem and solution code.
 
-## **Spis treści:**
-**[Lab00](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/simple%20tasks):** Konfiguracja środowiska
+## **Contents:**
+**[Lab00](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/simple%20tasks):** Environment configuration
 
-**[Lab01](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/Lab1):** Zmienne, Operatory, Instrukcje warunkowe, IN/OUT
+**[Lab01](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/Lab1):** Variables, Operators, Conditional statements, IN/OUT
 
-**[Lab02](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab2):** Pętle i tablice
+**[Lab02](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab2):** Loops and arrays
 
-**[Lab03](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab3):** Funkcje, wskaźniki, zakres zmiennych
+**[Lab03](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab3):** Functions, pointers, variable scope
 
-**[Lab04](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab4):** Biblioteki standardowe i operacje na łańcuchach znaków
+**[Lab04](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab4):** Standard libraries and string operations
 
-**[Lab05](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab5):** Rzutowanie, spójniki logiczne i struktury
+**[Lab05](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab5):** Casting, logical connectives and structures
 
-**[Lab06](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab6):** Gra w kółko i krzyżyk
+**[Lab06](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab6):** Tic-Tac-Toe Game
 
-**[Lab07](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab7):** Zapis i odczyt plików
+**[Lab07](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab7):** Writing and reading files
 
-**[Lab08](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab8):** Unie i alokacja pamięci
+**[Lab08](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/lab8):** Unions and memory allocation
 
-**[Kolokwium](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/kolokwium2):** Powtórka materiału
+**[Kolokwium](https://github.com/dawidolko/Programming-C/tree/main/Example_tasks/kolokwium2):** Revision of the material
 
-Każde zadanie zawiera szczegółowy opis problemu, przykładowe wejście i wyjście, oraz kod rozwiązania. Możesz wykorzystać te przykłady jako punkt wyjścia do rozwiązywania podobnych problemów lub jako materiał do nauki i eksperymentowania z różnymi technikami programowania.
+Each task includes a detailed description of the problem, sample input and output, and solution code. You can use these examples as a starting point for solving similar problems or as material to learn and experiment with different programming techniques.
 
-Zachęcam do zapoznania się z poszczególnymi przykładami i do korzystania z nich w celach edukacyjnych i praktycznych. Jeśli masz jakieś pytania lub uwagi dotyczące tych zadań, śmiało skontaktuj się ze mną przez platformę GitHub.
+I encourage you to read the individual examples and use them for educational and practical purposes. If you have any questions or comments about these tasks, please feel free to contact me via GitHub.
 
-Powodzenia i miłego programowania!
+Good luck and happy programming!
