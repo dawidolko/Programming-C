@@ -1,18 +1,18 @@
-# Kolokwium z Języka Programowania C
+# Colloquium on the C Programming Language
 
-Repozytorium to miejsce dla wszystkich, którzy uczą się i rozumieją język programowania C. Zawiera ono zasoby, które pomogą Ci przygotować się do kolokwium z tego języka, niezależnie od tego, czy jesteś początkującym, czy doświadczonym programistą.
+The repository is a place for everyone who learns and understands the C programming language. It contains resources that will help you prepare for the C programming language test, regardless of whether you are a beginner or an experienced programmer.
 
-## Czego możesz się tu nauczyć?
-Podstawy języka C: Zrozumienie podstaw języka C, takich jak zmienna, pętle, instrukcje warunkowe, funkcje, tablice i wskaźniki.
+## What can you learn here?
+C Basics: Understand C basics such as variables, loops, conditionals, functions, arrays, and pointers.
 
-Zaawansowane zagadnienia C: Zgłębianie bardziej zaawansowanych zagadnień, takich jak struktury, unie, przetwarzanie plików, zarządzanie pamięcią, operacje na bitach.
+Advanced Topics C: Explore more advanced topics such as structures, unions, file processing, memory management, bit operations.
 
-Algorytmy i struktury danych: Implementacja różnych algorytmów i struktur danych w języku C, takich jak sortowanie, wyszukiwanie, listy, stosy, kolejki, drzewa, grafy.
+Algorithms and Data Structures: Implementation of various algorithms and data structures in C language such as sorting, searching, lists, stacks, queues, trees, graphs.
 
-Najlepsze praktyki: Poznanie najlepszych praktyk w programowaniu w C, w tym stylu kodowania, debugowania, testowania i optymalizacji kodu.
+Best Practices: Learn the best practices in C programming, including coding style, debugging, testing, and code optimization.
 
-Repozytorium to doskonałe źródło wiedzy dla studentów, naukowców, nauczycieli, a także dla tych, którzy chcą poprawić swoje umiejętności programowania w C. Przykłady kodu, ćwiczenia, quizy i inne zasoby dostarczane są w przejrzysty i zrozumiały sposób.
+The repository is an excellent source of knowledge for students, scientists, teachers, and those who want to improve their C programming skills. Code examples, exercises, quizzes, and other resources are provided in a clear and understandable way.
 
-Zapraszam do korzystania, nauki i współtworzenia tego repozytorium. Wszelkie sugestie i wkład są mile widziane!
+I invite you to use, learn and contribute to this repository. Any suggestions and contributions are welcome!
 
 `"Talk is cheap. Show me the code." - Linus Torvalds`
