@@ -1,39 +1,39 @@
-# Kolokwium 0
+# Colloquium 0
 
-## **[Zadanie1.](https://github.com/dawidolko/Programming-C/blob/main/KOLOKWIUM/exam0/1.c)**
-Zdefinuj funkcję ```int count_nonzeros(int* tab, int len)```, która zwraca liczbe elementów z tablicy tab niebędących zerami. Tablica ma dłuosc len. `(3p.)`
+## **[Task1.](https://github.com/dawidolko/Programming-C/blob/main/KOLOKWIUM/exam0/1.c)**
+Define the function ```int count_nonzeros(int* tab, int len)```, which returns the number of elements from the tab array that are not zero. The board is len long. `(3p.)`
 
-Przykladowe wywołanie:
+Example call:
 ```
-int data[10]={0,8,0,7,0,6,0,5,0,4};
-printf("%d\n", count_zeros(data, 10));
+int data[10]={0.8,0.7,0.6,0.5,0.4};
+printf("%d\n", count_zeros(date, 10));
 ```
-Wyjście standardowe:
+Standard output:
 `5`
 
-## **[Zadanie2.](https://github.com/dawidolko/Programming-C/blob/main/KOLOKWIUM/exam0/2.c)**
-Zdefiniuj funkcję ```float med(float a, float b, float c)```, która zwróci środkową wartość z 3 jej paramertów a, b, c. `(2p.)`
+## **[Task2.](https://github.com/dawidolko/Programming-C/blob/main/KOLOKWIUM/exam0/2.c)**
+Define the function ```float med(float a, float b, float c)```, which will return the middle value of its 3 parameters a, b, c. `(2p.)`
 
-Przykładowe wywołanie:
+Example call:
 ```
 float a=4.5, b=10.5, c=12.2;
 printf("%f\n", med(a,b,c));
 ```
 
-Wyjście standardowe:
+Standard output:
 ```
 10.5
 ```
 
-## **[Zadanie 3.](https://github.com/dawidolko/Programming-C/blob/main/KOLOKWIUM/exam0/3.c)**
-Napisz program, który wczytuje od użytkownika jedną liczbę n, a następnie wypisuje na konsoli gwiazdki, układające się w trójkąt prostokątny o boku n gwiazdek. `(3p.)`
+## **[Task 3.](https://github.com/dawidolko/Programming-C/blob/main/KOLOKWIUM/exam0/3.c)**
+Write a program that reads one number n from the user and then prints stars on the console, forming a right triangle with sides of n stars. `(3p.)`
 
-Przykładowe wejscie: 
+Sample input:
 ```
 4
 ```
 
-Wyjscie standardowe:
+Standard output:
 ```
 *
 **
