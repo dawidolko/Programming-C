@@ -1,15 +1,15 @@
-# **Kurs 2: Kanał "O Wszystkim"**
+# **Course 2: "About Everything" Channel**
 
-## **Opis:**
-Repozytorium Kurs 2 zawiera materiały i przykłady związane z programowaniem i szeroko pojętą tematyką technologiczną. Kurs ten jest prowadzony na kanale "O Wszystkim" i oferuje różnorodne treści związane z programowaniem, nowinkami technologicznymi, recenzjami sprzętu i wiele więcej. Jest to świetne źródło informacji dla osób zainteresowanych tematyką technologiczną.
+## **Description:**
+Repository Course 2 contains materials and examples related to programming and broadly understood technological topics. This course is run on the "O Wszystki" channel and offers a variety of content related to programming, technological news, hardware reviews and much more. This is a great resource for people interested in technology.
 
-## **Kanał:**
-Kurs jest dostępny na kanale YouTube "O Wszystkim". Możesz go znaleźć pod tym linkiem: [Kurs 2 - Kanał O Wszystkim](https://www.youtube.com/watch?v=zMp_KeU5wKA&list=PL6aekdNhY7DBvSnK0HUUBb-OH4y41HoZw&index=2).
+## **Channal:**
+The course is available on the YouTube channel "O Wszystki". You can find it at this link: [Course 2 - Channel About Everything](https://www.youtube.com/watch?v=zMp_KeU5wKA&list=PL6aekdNhY7DBvSnK0HUUBb-OH4y41HoZw&index=2).
 
-## **Zawartość Kursu:**
-Kurs "O Wszystkim" porusza wiele różnych tematów związanych z programowaniem, technologią i nowinkami z branży IT. Możesz spodziewać się treści związanych z programowaniem w różnych językach, prezentacji nowych narzędzi i technologii, omówień sprzętu, poradników i wiele więcej. To wszechstronny kurs, który dostarcza różnorodne informacje dla szerokiego spektrum zainteresowań.
+## **Course Contents:**
+The "About Everything" course covers many different topics related to programming, technology and news from the IT industry. You can expect programming content in a variety of languages, presentations of new tools and technologies, hardware reviews, how-tos, and much more. This is a comprehensive course that provides a variety of information for a wide range of interests.
 
-## **Jak korzystać z kursu:**
-Możesz oglądać lekcje kursu na kanale "O Wszystkim" na YouTube. Każda lekcja koncentruje się na innym temacie, więc możesz wybierać te, które najbardziej Cię interesują. Kurs oferuje wartościowe informacje i inspiracje z dziedziny programowania i technologii. Przyjrzyj się materiałom, które Cię interesują, i czerp wiedzę z tego wszechstronnego źródła informacji.
+## **How to use the course:**
+You can watch the course lessons on the "O Wszystki" channel on YouTube. Each lesson focuses on a different topic, so you can choose the ones that interest you most. The course offers valuable information and inspiration in the field of programming and technology. Take a look at the content that interests you and learn from this comprehensive resource.
 
-Zachęcamy do subskrybowania kanału "O Wszystkim" i śledzenia nowych treści. Baw się dobrze i poszerzaj swoją wiedzę na temat programowania i technologii!
+We encourage you to subscribe to the "About Everything" channel and follow new content. Have fun and expand your knowledge of programming and technology!
