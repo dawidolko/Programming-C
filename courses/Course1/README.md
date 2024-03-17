@@ -1,22 +1,22 @@
-# **Kurs 1: Damian Orzechowski - Programowanie w języku C**
+# **Course 1: Damian Orzechowski - Programming in C**
 
-## **Opis:**
-Kurs 1 to kurs programowania w języku C prowadzony przez Damiana Orzechowskiego. Jest to kompleksowy kurs, który wprowadzi Cię w świat programowania w języku C i pomoże Ci opanować podstawowe i zaawansowane koncepcje tego języka. Kurs skupia się na praktycznym podejściu, oferując wiele przykładów i praktycznych zadań, które pomogą Ci w praktycznym zastosowaniu wiedzy.
+## **Description:**
+Course 1 is a programming course in C taught by Damian Orzechowski. This is a comprehensive course that will introduce you to C programming and help you master basic and advanced concepts of the language. The course focuses on a practical approach, offering many examples and practical tasks to help you put your knowledge into practice.
 
-## **Kanał:**
-Kurs jest dostępny na kanale YouTube Damiana Orzechowskiego. Możesz znaleźć go pod tym linkiem: Kurs 1 - [Damian Orzechowski](https://www.youtube.com/watch?v=ZDoN-IlQlQo&list=PL0oxIZsFGA4EAxDvx1PNzNAlr8g4xi3XP&index=20)
+## **Canal:**
+The course is available on Damian Orzechowski's YouTube channel. You can find it at this link: Course 1 - [Damian Orzechowski](https://www.youtube.com/watch?v=ZDoN-IlQlQo&list=PL0oxIZsFGA4EAxDvx1PNzNAlr8g4xi3XP&index=20)
 
-## **Zawartość Kursu:**
-Kurs obejmuje szereg tematów związanych z programowaniem w języku C. Obejmuje podstawowe elementy języka, takie jak składnia, typy danych, zmienne, pętle i instrukcje warunkowe. Następnie przechodzi do bardziej zaawansowanych tematów, takich jak wskaźniki, struktury danych, alokacja dynamiczna pamięci, operacje na plikach i wiele innych.
+## **Course Contents:**
+The course covers a range of topics related to C programming. It covers basic elements of the language such as syntax, data types, variables, loops and conditional statements. It then moves on to more advanced topics such as pointers, data structures, dynamic memory allocation, file operations, and much more.
 
-## **Jak korzystać z kursu:**
-Możesz oglądać lekcje kursu na kanale Damiana Orzechowskiego na YouTube. Każda lekcja obejmuje różne zagadnienia i przykłady, które pozwolą Ci praktycznie zrozumieć i zastosować omawiane tematy. Zaleca się wykonywanie praktycznych zadań i ćwiczeń, aby w pełni zrozumieć i utrwalić zdobytą wiedzę.
+## **How to use the course:**
+You can watch the course lessons on Damian Orzechowski's YouTube channel. Each lesson covers different topics and examples that will give you a practical understanding and application of the topics covered. It is recommended to perform practical tasks and exercises to fully understand and consolidate the acquired knowledge.
 
-## **Wkład i Wsparcie:**
-Kurs został stworzony przez Damiana Orzechowskiego i jest udostępniany bezpłatnie na kanale YouTube. Jeśli masz pytania dotyczące kursu, możesz skontaktować się z autorem poprzez komentarze pod poszczególnymi lekcjami.
+## **Contribution and Support:**
+The course was created by Damian Orzechowski and is available free of charge on YouTube. If you have questions about the course, you can contact the author via comments under individual lessons.
 
-## **Licencja:**
-Zawartość kursu objęta jest odpowiednimi licencjami i prawami autorskimi Damiana Orzechowskiego. Zapraszam do zapoznania się z informacjami na kanale YouTube w celu uzyskania dodatkowych informacji na temat używania i rozpowszechniania materiałów kursu.
+## **License:**
+The content of the course is covered by appropriate licenses and copyrights of Damian Orzechowski. Please visit our YouTube channel for additional information on the use and distribution of course materials.
 
-## **Zapraszam do nauki!**
-Rozpocznij swoją przygodę z programowaniem w języku C dzięki temu kursowi prowadzonemu przez Damiana Orzechowskiego. Będziesz miał możliwość zdobycia solidnej podstawy w programowaniu i rozwijania swoich umiejętności. Kurs oferuje mnóstwo wartościowych informacji i praktycznych przykładów, które pomogą Ci w doskonaleniu swoich umiejętności programistycznych.
+## **I invite you to learn!**
+Start your adventure with C programming with this course taught by Damian Orzechowski. You will have the opportunity to gain a solid foundation in programming and develop your skills. The course offers a lot of valuable information and practical examples that will help you improve your programming skills.
