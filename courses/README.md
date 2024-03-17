@@ -1,24 +1,24 @@
-# **Kursy w języku C**
+# **Courses in C**
 
-## **Opis:**
-Repozytorium Kursy w języku C zawiera materiały edukacyjne, przykładowe projekty i kod źródłowy związane z nauką programowania w języku C. Język C jest popularnym językiem programowania, który znajduje zastosowanie w tworzeniu efektywnych i wydajnych programów. Repozytorium to ma na celu dostarczenie materiałów i przykładów dla osób, które chcą nauczyć się programowania w języku C lub poszerzyć swoją wiedzę na ten temat.
+## **Description:**
+The C courses repository contains educational materials, sample projects and source code related to learning programming in C. The C language is a popular programming language that is used in creating effective and efficient programs. This repository aims to provide materials and examples for people who want to learn C programming or expand their knowledge on the subject.
 
-## **Jak zacząć:**
-Aby skorzystać z materiałów dostępnych w tym repozytorium, sklonuj repozytorium na swój lokalny komputer:
+## **How ​​to start:**
+To use the materials available in this repository, clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Programming-C/tree/main/courses
 ```
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in the appropriate folders.
 
-Eksperymentuj z kodem źródłowym, analizuj implementacje i ucz się programowania w języku C na podstawie dostępnych przykładów.
+Experiment with source code, analyze implementations, and learn C programming using available examples.
 
-## **Wymagania systemowe**
-Aby rozpocząć naukę programowania w języku C, będziesz potrzebować kompilatora C oraz środowiska programistycznego. Dla systemu operacyjnego Windows, możesz użyć kompilatora MinGW lub Microsoft Visual Studio. Dla systemu operacyjnego Linux, zazwyczaj jest dostępny kompilator GCC. Upewnij się, że masz odpowiednie narzędzia zainstalowane przed rozpoczęciem pracy.
+## **System requirements**
+To start learning C programming, you will need a C compiler and a programming environment. For the Windows operating system, you can use the MinGW compiler or Microsoft Visual Studio. For the Linux operating system, a GCC compiler is usually available. Make sure you have the appropriate tools installed before you start working.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty i przykłady związane z programowaniem w języku C. Wszelkie wkłady są mile widziane!
+## **Contribution and Support**
+If you would like to contribute to this repository, you can report issues, create pull requests, or share your own C programming projects and examples. All contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, możesz skontaktować się ze mną poprzez e-mail lub przez platformę GitHub.
+If you have questions or need help, you can contact me via email or GitHub.
 
-## **Licencja**
-Ten projekt jest objęty licencją MIT. Zapraszam do zapoznania się z pełnym tekstem licencji przed korzystaniem z tego repozytorium.
+## **License**
+This project is licensed under the MIT License. Please read the full license text before using this repository.
