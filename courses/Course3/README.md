@@ -1,15 +1,15 @@
-# **Kurs 3: Kisioj**
+# **Course 3: Kisioj**
 
-## **Opis:**
-Repozytorium Kurs 3 zawiera materiały i przykłady związane z programowaniem, tworzeniem gier i szeroko pojętą tematyką związaną z branżą IT. Kurs ten jest prowadzony przez Kisioj i oferuje interesujące treści związane z programowaniem gier, tworzeniem grafiki komputerowej, algorytmami i wiele więcej. Jest to doskonałe źródło informacji dla osób zainteresowanych programowaniem gier i tworzeniem wizualnych efektów.
+## **Description:**
+Repository Course 3 contains materials and examples related to programming, game creation and broadly understood topics related to the IT industry. This course is taught by Kisioj and offers interesting content related to game programming, computer graphics creation, algorithms and much more. This is an excellent resource for people interested in game programming and creating visual effects.
 
-## **Kanał:**
-Kurs jest dostępny na kanale YouTube Kisioj. Możesz go znaleźć pod tym linkiem: [Kurs 3 - Kisioj](https://www.youtube.com/watch?v=Ik6JDCy6-Tg&list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ&index=1)
+## **Canal:**
+The course is available on the Kisioj YouTube channel. You can find it at this link: [Course 3 - Kisioj](https://www.youtube.com/watch?v=Ik6JDCy6-Tg&list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ&index=1)
 
-## **Zawartość Kursu:**
-Kurs Kisioj skupia się głównie na programowaniu gier i tworzeniu wizualnych efektów. Znajdziesz tutaj wiele przykładów z różnych gatunków gier, takich jak platformówki, strzelanki czy gry logiczne. Kurs omawia techniki programowania, tworzenia grafiki komputerowej, implementacji fizyki w grach i wiele innych tematów związanych z tworzeniem gier. Jest to doskonałe źródło wiedzy dla wszystkich, którzy chcą rozpocząć swoją przygodę z programowaniem gier.
+## **Course Contents:**
+The Kisioj course focuses mainly on game programming and creating visual effects. Here you will find many examples from various game genres, such as platformers, shooters and puzzle games. The course covers programming techniques, creating computer graphics, implementing physics in games and many other topics related to game development. This is an excellent source of knowledge for everyone who wants to start their adventure with game programming.
 
-## **Jak korzystać z kursu:**
-Możesz oglądać lekcje kursu na kanale Kisioj na YouTube. Każda lekcja koncentruje się na innym aspekcie tworzenia gier, więc możesz wybierać te, które najbardziej Cię interesują. Kurs oferuje cenne informacje i wskazówki dotyczące programowania gier oraz tworzenia atrakcyjnej grafiki komputerowej. Przyjrzyj się materiałom, które Cię interesują, i zdobywaj wiedzę z tego fascynującego źródła informacji.
+## **How to use the course:**
+You can watch the course lessons on the Kisioj YouTube channel. Each lesson focuses on a different aspect of game development, so you can choose the ones that interest you most. The course offers valuable information and tips on programming games and creating attractive computer graphics. Take a look at the content that interests you and gain knowledge from this fascinating resource.
 
-Zachęcamy do subskrybowania kanału Kisioj i śledzenia nowych treści. Ciesz się nauką programowania gier i tworzeniem wizualnych efektów w ramach tego interesującego kursu!
+We encourage you to subscribe to the Kisioj channel and follow new content. Enjoy learning game programming and creating visual effects in this engaging course!
