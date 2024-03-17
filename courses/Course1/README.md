@@ -3,7 +3,7 @@
 ## **Description:**
 Course 1 is a programming course in C taught by Damian Orzechowski. This is a comprehensive course that will introduce you to C programming and help you master basic and advanced concepts of the language. The course focuses on a practical approach, offering many examples and practical tasks to help you put your knowledge into practice.
 
-## **Canal:**
+## **Channal:**
 The course is available on Damian Orzechowski's YouTube channel. You can find it at this link: Course 1 - [Damian Orzechowski](https://www.youtube.com/watch?v=ZDoN-IlQlQo&list=PL0oxIZsFGA4EAxDvx1PNzNAlr8g4xi3XP&index=20)
 
 ## **Course Contents:**
